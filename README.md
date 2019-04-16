@@ -1,6 +1,4 @@
 # Getting Started
-
-### Prerequisites
 - Clone this repo, `git clone https://github.com/fitraaditama7/tes-nusantech.git <your project name>`
 - Go to project's root directory, `cd <your project name>`
 - Remove `.git` folder, `rm -rf .git`
